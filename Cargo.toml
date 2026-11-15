@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-profile component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-profile"
+name = "sigmaos_archlinux_profile"
 path = "src/lib.rs"
