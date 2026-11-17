@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-profile"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-profile component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
